@@ -1,0 +1,17 @@
+#page{
+    background-color: gainsboro;
+    text-align: center;
+}
+
+.homepage-title{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+}
+
+h2 {
+    color: rgb(218, 12, 98);
+}
+
+ul{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
